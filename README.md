@@ -24,7 +24,7 @@ sudo systemctl enable influxdb</code></pre>
     <pre><code>influx setup --username your_username --password your_password --org your_org --bucket monitoring --force</code></pre>
   </div>
   <p align="center">
-  <img src="influxdb.png" alt="Workflow Diagram" width="600">
+  <img src="Influxdb.png" alt="Setup commands" width="600">
 </p>
 
 
