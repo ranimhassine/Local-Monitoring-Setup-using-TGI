@@ -26,6 +26,9 @@ sudo systemctl enable influxdb</code></pre>
   <p align="center">
   <img src="Influxdb.png" alt="Setup commands" width="600">
 </p>
+<p align="center">
+  <img src="Influxdb-dashboard.png" alt="Setup commands" width="600">
+</p>
 
 
   <div class="section">
