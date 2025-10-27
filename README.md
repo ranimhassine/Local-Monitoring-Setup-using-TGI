@@ -23,6 +23,10 @@ sudo systemctl enable influxdb</code></pre>
     <p>Visit <code>http://localhost:8086</code> in a browser and complete setup. Or use CLI:</p>
     <pre><code>influx setup --username your_username --password your_password --org your_org --bucket monitoring --force</code></pre>
   </div>
+  <p align="center">
+  <img src="influxdb.png" alt="Workflow Diagram" width="600">
+</p>
+
 
   <div class="section">
     <h2>Step 4: Install Telegraf</h2>
