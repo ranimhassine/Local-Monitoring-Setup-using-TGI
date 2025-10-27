@@ -81,6 +81,9 @@ sudo systemctl enable grafana-server</code></pre>
   <p align="center">
   <img src="DataSource.png" alt="Influxdb as Grafana data source" width="600">
 </p>
+<p align="center">
+  <img src="DataSource-Config.png" alt="configuration" width="600">
+</p>
 - Set Query Language to "Flux" (recommended for v2+).
 - URL: `http://localhost:8086`
 - Organization: "your_org"
