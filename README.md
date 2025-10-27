@@ -69,3 +69,6 @@ sudo systemctl enable grafana-server</code></pre>
   </div>
 </body>
 </html>
+<p align="center">
+  <img src="Grafana.png" alt="Grafana" width="600">
+</p>
