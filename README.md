@@ -112,7 +112,7 @@ from(bucket: "monitoring")
 - Repeat for other metrics like memory (`mem > used_percent`) or disk (`disk > used_percent`).
 - Save the dashboard.
 <p align="center">
-  <img src="DataSource-Config.png" alt="configuration" width="600">
+  <img src="CPU-Utilization-visual.png" alt="CPU Utilization visualization" width="600">
 </p>
 
 Grafana has pre-built dashboards; import one for Telegraf system metrics via Dashboards > Import (ID: 928 for basic system dashboard).
