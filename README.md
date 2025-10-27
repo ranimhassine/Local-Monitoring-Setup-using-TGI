@@ -6,7 +6,7 @@
     <pre><code>sudo apt update && sudo apt upgrade -y</code></pre>
   </div>
 <p align="center">
-  <img src="telegraf-config.png" alt="telegraf configurations file" width="600">
+  <img src="Monitoring-dashboard.png" alt="Monitoring-dashboard" width="600">
 </p>
   <div class="section">
     <h2>Step 2: Install InfluxDB</h2>
