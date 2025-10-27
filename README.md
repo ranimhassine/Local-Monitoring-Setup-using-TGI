@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>TIG Stack Setup Guide</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background-color: #f4f4f9; }
-    h1, h2, h3 { color: #333; }
-    pre { background-color: #272822; color: #f8f8f2; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    code { background-color: #eee; padding: 2px 4px; border-radius: 4px; }
-    .section { margin-bottom: 30px; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-  </style>
-</head>
+
 <body>
   <h1>Setting Up TIG Stack (Telegraf, InfluxDB, Grafana) on Ubuntu</h1>
   <div class="section">
