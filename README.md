@@ -5,7 +5,9 @@
     <h2>Step 1: Update Your System</h2>
     <pre><code>sudo apt update && sudo apt upgrade -y</code></pre>
   </div>
-
+<p align="center">
+  <img src="telegraf-config.png" alt="telegraf configurations file" width="600">
+</p>
   <div class="section">
     <h2>Step 2: Install InfluxDB</h2>
     <p>Add InfluxData repository key and list:</p>
