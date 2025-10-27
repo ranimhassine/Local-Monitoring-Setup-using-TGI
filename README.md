@@ -111,7 +111,9 @@ from(bucket: "monitoring")
 - Customize the visualization (e.g., time series graph).
 - Repeat for other metrics like memory (`mem > used_percent`) or disk (`disk > used_percent`).
 - Save the dashboard.
-
+<p align="center">
+  <img src="DataSource-Config.png" alt="configuration" width="600">
+</p>
 
 Grafana has pre-built dashboards; import one for Telegraf system metrics via Dashboards > Import (ID: 928 for basic system dashboard).
 
