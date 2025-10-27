@@ -49,7 +49,7 @@ organization = "your_org"
 bucket = "monitoring"</code></pre>
   </div>
   <p align="center">
-  <img src="telegraf-conf.png" alt="telegraf configurations file" width="600">
+  <img src="telegraf-config.png" alt="telegraf configurations file" width="600">
 </p>
 
   <div class="section">
