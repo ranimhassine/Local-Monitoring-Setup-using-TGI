@@ -77,7 +77,10 @@ sudo systemctl enable grafana-server</code></pre>
 
 
 2. Add InfluxDB as a data source:
-- Go to Configuration > Data Sources > Add data source > InfluxDB.
+- Go to Connections > Data Sources > Add data source > InfluxDB.
+  <p align="center">
+  <img src="DataSource.png" alt="Influxdb as Grafana data source" width="600">
+</p>
 - Set Query Language to "Flux" (recommended for v2+).
 - URL: `http://localhost:8086`
 - Organization: "your_org"
