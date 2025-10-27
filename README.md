@@ -27,7 +27,7 @@ sudo systemctl enable influxdb</code></pre>
   <img src="Influxdb.png" alt="Setup commands" width="600">
 </p>
 <p align="center">
-  <img src="Influxdb-dashboard.png" alt="Setup commands" width="600">
+  <img src="Influxdb-dashboard.png" alt="influxdb" width="600">
 </p>
 
 
@@ -48,6 +48,9 @@ token = "YOUR_TOKEN"
 organization = "your_org"
 bucket = "monitoring"</code></pre>
   </div>
+  <p align="center">
+  <img src="telegraf-conf.png" alt="telegraf configurations file" width="600">
+</p>
 
   <div class="section">
     <h2>Step 6: Install Grafana</h2>
